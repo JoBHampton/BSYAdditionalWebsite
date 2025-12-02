@@ -22,3 +22,7 @@
 #toggle:checked ~ .content-to-hide {
   display: block; /* Or display: flex, grid, etc., depending on your layout needs */
 }
+
+#toggle:hover {
+    background-color: red;
+}
